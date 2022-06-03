@@ -7,3 +7,12 @@ Example of models for this application [here](https://dbdiagram.io/d/62957e0cf04
 
 
 Feel free to improve the model layer and experiment with your project.
+
+
+# Update for homework #2
+
+You need to implement API for coxit-academy models.
+Endpoints for lists of assignements, homeworks and students
+Endpoints for single assignement, homework and student
+Endpoint for submissions by student id
+Endpoint for lectures by lecturer id
