@@ -25,7 +25,8 @@ def position_workers_dict(position):
 
 
 
-def hire_worker(data):
+def hire_worker_service(data):
+    print(data)
     worker = CoxitWorker.objects.create(
         first_name=data['first_name'],
         last_name=data['last_name'],
