@@ -12,7 +12,7 @@ Feel free to improve the model layer and experiment with your project.
 # Update for homework #2
 
 You need to implement API for coxit-academy models.
-Endpoints for lists of assignements, homeworks and students
-Endpoints for single assignement, homework and student
-Endpoint for submissions by student id
-Endpoint for lectures by lecturer id
+1. Endpoints for lists of assignements, homeworks and students
+2. Endpoints for single assignement, homework and student
+3. Endpoint for submissions by student id
+4. Endpoint for lectures by lecturer id
